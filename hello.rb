@@ -3,3 +3,4 @@ def hello_world
 end
 
 hello_world
+puts 'success! :D'
